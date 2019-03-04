@@ -1,4 +1,4 @@
-# Readme File for Prediction of Income for 1994 Census Database (Python 3) #
+# Prediction of Income for 1994 Census Database (Python 3) #
 The given training and testing dataset is from the 1994 Census Database. The task is to predict whether a person makes above 50K a year or not. 
 
 
